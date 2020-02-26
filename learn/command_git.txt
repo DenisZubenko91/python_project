@@ -1,0 +1,6 @@
+https://learngitbranching.js.org/
+git fetch - обновить список веток
+git commit - коммит изменений
+git branch [название ветки] - создать новую ветку
+git checkout [название ветки] - переключиться на ветку
+git merge - слияние веток
